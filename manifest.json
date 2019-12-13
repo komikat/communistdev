@@ -1,0 +1,14 @@
+{
+    "name": "Commtab",
+    "version": "1.69",
+    "description": "Open Multiple tabs. Hassle free. Just like we destroyed those germans haha.",
+    "manifest_version": 2,
+    "permissions": ["storage", "tabs"],
+    
+    "browser_action":{
+        "default_popup":"popup.html",
+        "default_icon": "download.png"
+        
+
+    }
+  }
